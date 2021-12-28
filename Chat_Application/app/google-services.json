@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "748297627094",
+    "project_id": "niharikachatapp",
+    "storage_bucket": "niharikachatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748297627094:android:a72441aad5f3840a1c7077",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748297627094-7aekh8eb6jignc37pl18l4d2dv5m9cbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_application",
+            "certificate_hash": "43a6b5cf706a4244f5b1d70d20626090fd7fd968"
+          }
+        },
+        {
+          "client_id": "748297627094-fh7tegedaomhcac8vq4t5lp9jluq9atr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFazbhUIyG4Mu5lSTrju-hJBWEzFe2oqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748297627094-fh7tegedaomhcac8vq4t5lp9jluq9atr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

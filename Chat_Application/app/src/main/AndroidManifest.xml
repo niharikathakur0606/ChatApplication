@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.Chat_Application">
+    <application
+
+        android:name="com.example.Chat_Application.specificchat"/>
+
+    <activity android:name="com.example.Chat_application.UpdateProfile"/>
+
+    <activity android:name="com.example.Chat_application.ProfileActivity"/>
+
+    <activity android:name="com.example.Chat_application.chatActivity"/>
+
+    <activity android:name="com.example.Chat_application.setProfile"/>
+
+    <activity android:name="com.example.Chat_application.otpAuthentication"/>
+
+    <activity android:name="com.example.Chat_application.MainActivity"/>
+
+
+    <intent-filter>
+
+    <action android:name="android.intent.action.MAIN"/>
+
+    <category android:name="android.intent.category.LAUNCHER"/>
+
+</intent-filter>
+
+</manifest>
